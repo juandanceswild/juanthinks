@@ -108,7 +108,7 @@ footer p, footer a{
 
 #email {
 	color:white;
-	text-decoration: none;
+	text-decoration: underline;
 }
 
 	#email:hover{
